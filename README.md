@@ -43,7 +43,7 @@ Steps that were followed:
 4. Feature Selection
 5. Training and testing on multiple models to find the best accurate prediction.
 
-Teammates: 
+## Teammates: 
 Prerana Uppalapati (015906644)
 Hema Aishwarya Talluri (015952586)
 Ramisetty Teja (015933138)
