@@ -44,8 +44,15 @@ Steps that were followed:
 5. Training and testing on multiple models to find the best accurate prediction.
 
 ## Teammates: 
-Prerana Uppalapati (015906644)
-Hema Aishwarya Talluri (015952586)
-Ramisetty Teja (015933138)
-Varshith Talluri (015948816)
+Prerana Uppalapati (015906644) <br/>
+Hema Aishwarya Talluri (015952586) <br/>
+Ramisetty Teja (015933138) <br/>
+Varshith Talluri (015948816) <br/>
+
+Models used:
+
+1. Logistic Regression
+2. K nearest neighbor 
+3. Random Forgest Regression
+
 
