@@ -53,6 +53,8 @@ Models used:
 
 1. Logistic Regression
 2. K nearest neighbor 
-3. Random Forgest Regression
+3. Decision Tree
+4. Random Forgest Regression
+5. XG Boost
 
 
