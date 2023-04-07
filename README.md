@@ -55,6 +55,6 @@ Models used:
 2. K nearest neighbor 
 3. Decision Tree
 4. Random Forgest Regression
-5. XG Boost
+5. XG Boost.
 
 
